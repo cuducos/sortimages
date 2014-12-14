@@ -1,0 +1,10 @@
+# compiled files
+*.pyc
+
+# development environment
+*.swp
+.idea/
+.ropeproject/
+
+# os garbage
+*.DS_Store
