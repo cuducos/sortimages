@@ -175,6 +175,6 @@ This command look for all images in the given folder, including it sub-folders (
 
 ## License
 
-Copyright (c) 2014 Eduardo Cuducos.
+Copyright (c) 2015 Eduardo Cuducos.
 
 Licensed under the [MIT License](http://opensource.org/licenses/MIT).
